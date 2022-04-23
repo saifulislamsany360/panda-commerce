@@ -1,7 +1,21 @@
-.carousel-item {
-    width: 402px;
-    height: 378px;
+.carousel-inner {
+    background: #fceae8;
+    margin-top: 20px;
 }
 .carousel-item img {
     width: 80%;
+    margin: 20px;
+}
+.price .button {
+    color: #FF136F;
+    background: #FF136F;
+}
+.product {
+    width: 80%;
+}
+.watch h1 {
+    color: white;
+}
+.watch img{
+    width: 80px;
 }
